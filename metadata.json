@@ -1,0 +1,6 @@
+{
+  "name": "ElderCare",
+  "description": "An elderly companion and daily health management web application for seniors in the UAE, featuring daily reminders, caregiver management, voice assistant, and emergency support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
